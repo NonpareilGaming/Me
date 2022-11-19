@@ -1,0 +1,1 @@
+- Collecting data points on young gamers. YouTube does it to increase their recommendation engine. At what point is it exploitation? We intend to enhance their gaming attitude and experience, not exploit.

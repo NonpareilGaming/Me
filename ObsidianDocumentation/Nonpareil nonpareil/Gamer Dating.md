@@ -1,0 +1,1 @@
+We'll have so much data on what a gamer likes and doesn't like and how their mind works, we should start a recommendation engine off of that. It will get smarter as we go. Machine learning. We can redefine attraction with data points.
