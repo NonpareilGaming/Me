@@ -27,3 +27,5 @@ Theory is an opinion backed by logic. Every gamer has their theories. This is wh
 # Gamers (Nonpareil Gamers Contribute!)
 
 Gamers are people who are interested in playing games. No further definition. They're all welcome. Free pages all around! (SSO through Google/Facebook/etc.). Each gamer can build their profile, upload clips from Xbox, and play **rating games** to rate their favorite parts of each game. Each gamer will have a profile game as their first rating game. This will determine their profile.
+
+#TODO: Update Cover Page. - Nic E1.2
