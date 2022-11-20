@@ -1,4 +1,39 @@
 # Hypothesi
+#Quandary : "Can nonpareil.me integrate with https://github.com/openziti/runzmd"
+#Hypothesis : ? #runzmd #Executes #Markdown #Then #True
+#PlainFuckingEnglish : "If RunZmd is 'A Go library for making runnable markdown', I have a ton of MarkDown that I feel needs to be built into a Data Model."
+#Quandary : "What the fuck is data modeling? :D"
+#Hypothesis : #Need #Relevant #Experience
+
+#NewTag : #NeedRelevantExperience = #Need , #Relevant, #Experience  
+#NewTag : #RefferencialExperience = #Refference, #Experience
+
+#Quandary: "What is #mod?"
+	#Hypothesis : #mod = #Relevant #NonpareilQuotient 
+	#Therefore M=RNQ
+#Quandary : "How will you use #NonpareilQuote (s)?"
+ #Hypothesis : (Users will) #Define #NonpareilQuotient
+ #NonpareilQuote : " #Users are #absolutely  an #unknownVariable when #maximizing an #idea. (Kajit) (has wears), if (you have coin)."
+	#Joke : #Entity #Posesses #Supply if #Demand
+
+#Quandary : "(What are) #Supply  (and) #Demand ?" 
+	#Thought((and)?)=? ; "Supply and Demand?" ~= "Supply or Demand" What does that look bad? So "What are X and Y?" is the question. 
+#Quandary : "What are X and Y?"
+#Hypothesis : "X and Y are both Variables"
+	#ITTT : "X,Y= #Variables" #Then #LostThePlot
+	
+
+#Quandary : "What is #Approximation?"
+	#Hypothesis : #Approximation = SUM(\*RExp)
+	 #Disambiguation: SUM(\*RExp)
+		 #PlainFuckingEnglish : The #Hypothesis is that #Approximation is the #Sum of #Any #Relevant #Experiences
+		 #NonpareilQuote: "The sum of all relevant experiences determines your approximations" #First #E1-0 #SideNote I couldn't sleep... it's 4:23am... It could be E1 or M2 right now. #Evening/Afternoon #Morning 
+#Quandary : "What are the differences in "
+#Quandary : "What are you making with this community?"
+	#ScopeCreep : #TwitchAutoClipping , #TAC 
+	#Hypothesis 
+#Quandary "What is your release strategy?"
+#Hypothesis 
 #NonpareilPrinciple "" 
 	#Joke Pretty sure I just turned off the voices for a second. The sound that remained was @CarolinaOnlineDialupConnectionNotFoundError
 	#Introspection I stopped at the declaration of the first principle. My mind was blank. Finally. Goodnight! :) #E1-1 

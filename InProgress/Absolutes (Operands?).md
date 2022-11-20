@@ -1,8 +1,12 @@
 #Definition #Absolute : The #Definition of a #Variable #Pending  #Contribution
 #Variablization #Contribution ~= #Contribute
-#Definition #Approximately ~ = ~
--
-	Operation
+#Definition : #Approximately ~ = ~
+#Definition : #And =  ,
+#Definition : #Of = :
+#Definition : #Is = =
+
+- #Hypothesis Approximation
+- Operation
 - Component
 - Special
 - Suffix

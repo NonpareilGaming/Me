@@ -1,3 +1,4 @@
+#TODO
 # Ranking
 ranked (per game):
 1. attribute (1 point)

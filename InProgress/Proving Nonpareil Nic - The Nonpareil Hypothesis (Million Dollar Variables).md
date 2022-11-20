@@ -1,16 +1,11 @@
-
-
-# Backlog
-FIGURE OUT OBSIDIAN
-- 
-- Defining an Open Source Community
-
+#Quandary: "What do I contribute?"
+#Hypothesis : #Refferencial #Experience
 # Language
-- Art
+- #Definition : #Art = Content #mod #Flair 
 	- Definition
 		- Content
 	- Nonpareil Event
-		- ~"Don't cheapen someone's art by calling it content" ~Squigles (Until he tells me to add his name. Put in a PR!) Edit: @Squigles
+		- ~"Don't cheapen someone's #art by calling it content" ~Squigles (Until he tells me to add his name. Put in a PR!) Edit: @Squigles
 
 - "The first action you commit as a creator is to decide on a language." - Nic, Day 1
 	- "The zeroth action is having an idea" - Nic
