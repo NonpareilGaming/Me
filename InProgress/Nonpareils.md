@@ -1,0 +1,21 @@
+People that have achieved nonpareil success:
+- Nonpareil.me/<'username'>
+- Openheimer
+- Langdon
+- Squigles (TODO: Fix This @Squigles)
+- Kanye (Lyrical Genius) or not normal
+	- #Joke fishsticks
+- GaryVee
+- Malcolm Gladwell (Don)
+	- (Defines Outliers Nonpareily)
+- Hit Record
+- Steve Jobs
+- Early Elon Musk
+	- What changed? What Nonpareil Event (Ne) moved Elon down the Nonpareil Quotient (Nq)
+- Tony Hichcliffe
+- Kevin Smith
+- Steve Klein
+- Matthew McConaughey
+- Trey Parker (Not Normal)
+- Matt Stone (Not Normal)
+- Matt Rickard (matt-rickard.com)
