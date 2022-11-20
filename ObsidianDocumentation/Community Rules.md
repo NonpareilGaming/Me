@@ -6,4 +6,4 @@
 	1. The data layer is the proprietary software
 	2. Anyone that gives a nonpareil contribution will be compensated
 6. We intend to enhance a gamer's attitude and experience, not exploit.
-7. 
+7. We are Utilitarian. If the means justify the end and the end is innately altruistic, the action is nonpareil. 
