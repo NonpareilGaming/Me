@@ -1,0 +1,1 @@
+- Reddit thoughts the gamers have can be displayed on their page 
