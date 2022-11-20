@@ -9,6 +9,7 @@
 7. We are Utilitarian. If the means justify the end and the end is innately altruistic, the action is nonpareil. 
 8. The entity with the highest Eq (Emotional Quotient) in the decided vertical will make emotional decisions
 9. Communication Always Promotes Success (Caps)
+10. NonpareilQuotes are meant to be memorable. We will iterate on them to add #Flair
 
 # Ids
 Caps (Communication Always Promotes Succes)

@@ -1,3 +1,4 @@
+#TODO
 - Separation of church and state
 	- "I created nonpareil from passion" -Nic D1
 	- "Passion is inverse to work" - Nic D1
