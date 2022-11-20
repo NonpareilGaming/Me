@@ -7,3 +7,8 @@
 	2. Anyone that gives a nonpareil contribution will be compensated
 6. We intend to enhance a gamer's attitude and experience, not exploit.
 7. We are Utilitarian. If the means justify the end and the end is innately altruistic, the action is nonpareil. 
+8. The entity with the highest Eq (Emotional Quotient) in the decided vertical will make emotional decisions
+9. Communication Always Promotes Success (Caps)
+
+# Ids
+Caps (Communication Always Promotes Succes)
