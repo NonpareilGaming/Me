@@ -1,4 +1,19 @@
-# Overview
+# I am Inevitable
+#Hypthesis: "My #Passions are #Absolute" - Nic E2.1
+
+
+
+#Assertations
+#Hypothesis : I am #Nic ! But seriously, challenge it! #Contribute , Let's find out!
+#Hypothesis: #This will
+
+#Quandary : "What is #Gamification"
+
+#NonpareilQuote:  "(I want to) "
+#nonpareilQuote : " #Nic #perpetually #try to make my efficiency per cycle better"
+#li
+
+#InitialMusing : "If the #lexicon is your #id then your #vinacular is your #Avatar. The "
 ## Motivation
 
 I love watching streamers try and analyze a game. I think they all have different opinions based on their experiences. I first came up with this idea while playin NBA2K23, so I will use teh big players in the analytic streamer space to decsribe my plan.
@@ -27,5 +42,10 @@ Theory is an opinion backed by logic. Every gamer has their theories. This is wh
 # Gamers (Nonpareil Gamers Contribute!)
 
 Gamers are people who are interested in playing games. No further definition. They're all welcome. Free pages all around! (SSO through Google/Facebook/etc.). Each gamer can build their profile, upload clips from Xbox, and play **rating games** to rate their favorite parts of each game. Each gamer will have a profile game as their first rating game. This will determine their profile.
+
+# What makes you think this will work?
+In college at UNCW, I wrote a paper and built an algorithm for predcitions based on exisitng data. The model failed, and I still got an A+. #NonpareilEvent Failure is part of the process. If you never fail, you'll never know your limits. #NonpareilQuote : "Fail fast, iterate efficiently"
+
+
 
 #TODO: Update Cover Page. - Nic E1.2
