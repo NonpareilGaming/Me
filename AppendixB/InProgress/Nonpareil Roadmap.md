@@ -13,6 +13,8 @@ Make a 2k quiz
 	1. #NonpareilQuote : "An #MVP #Drives #Early #Adoption"
 	2. #NonpareilQuote : " #Create an #MVP for #nonpareil #Efficiency "
 3. #CODEE ( #Cycle #Optimization #Determines #Experience #Efficiency)
+4. #NonpareilQuote: #Engineering= #Optimizating #Experiences #Efficiently
+
 	#NonpareilQuote "#CODE is using #Cycle #Optimization to #Determine the #Efficiency at which an #Entity #Recieves #Experience"
 2. #Iterate || #Vacation
 3. Make an Acronym for this! #IT 

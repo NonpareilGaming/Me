@@ -3,7 +3,10 @@ nonpareil.me
 
 # I am Inevitable
 #Hyopthesis: "My #Passions are #Absolute"
+#Hypothesis: "I can #write the #funniest #memoirs #ever"
+#Hypthesis : "I can #update the #CoreCodingPrinciples" (And make them punny! I'm gonna make a Punngine!)
 #Hypothesis: " #Automate #Everything" (Whoever #taught me this should have put a #qualifier on it :DDDDDDD)
+#NonpareilQuote: "Everyone has their #pregidous #Quotient. That's why we stay on our Ps and Qs." #Joke 
 
 #Quandary : "What is a #Hypothesis ?"
 #Hypothesis: ... #IT 
@@ -14,6 +17,9 @@ nonpareil.me
 #Definition: #Hypothesis = #Thought #Seeking #Absolution
 
 #Quandry: "Is #Seeking the #NonpareilWord ?"
+#Hypothesis: 
+
+#Quandry : ""
 
 
 #Quandary : "What's the #diff between a #Thought and an #Idea?"
