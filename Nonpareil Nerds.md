@@ -6,7 +6,7 @@ Title: UNCW Student Challenge his Professors for their titles.
 
 
 #
-
+#
 #Quandary : " #nonpareil #motivator #NonpareilNerds to #Contribute ?"
 #Hypothesis : #PJ: "(Stream yourself going slowly insane), then (put it on TikTok) and (make them defend) (their dissertations)."
 #Disambiguation : "Doctors #DrGuinn and Ricanek, (I am a UNCW Computer Science Alum) #DataPoint. I #Disambiguated  Dr Guinn and Ricanek's #Dissertations  I challenge them to defend them.  twitch.tv/NonpareilNic "

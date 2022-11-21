@@ -27,6 +27,8 @@
 	
 #Definition: #Hypothesis = #Thought #Seeking #Absolution
 
+
+
 #Quandry: "Is #Seeking the #NonpareilWord ?"
 #Hypothesis: 
 
