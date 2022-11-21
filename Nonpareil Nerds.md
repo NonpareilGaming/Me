@@ -59,3 +59,9 @@ People that have achieved nonpareil success:
 - Matt Stone (Not Normal)
 - Matt Rickard (matt-rickard.com)
 - Jason Howk #Altruism 
+- Albert Einstein
+	- ~"Compound Interest is the most powerful force in the universe"
+	- #Hypothesis : We can #Compound #Experience
+	- #Quandry: "What is #Compound #Experience ?"
+		- 
+		- #NonpareilQuote "
