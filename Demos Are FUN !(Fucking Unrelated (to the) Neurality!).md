@@ -1,3 +1,7 @@
+Mon5:18am. #Ae =  
+
+#Definition: #Avatarial #Experience = "(Rexp)+(Ghexp)" = #Ae
+	
 #HulkHogan #Quandry: "I want to be a pro wrestler"
 #Hypthesis 
 
@@ -15,3 +19,5 @@
 
 #Joke: ~"(Gummies) (are like) (my drunk Step Dad). (Ya never know when) (they'll) (hit ya!) " - Some guy on KillTony around episode 280 or so, maybe currnet? #IT
 #Disambaguated : #Delta-9 #Influenced #Entity #Unexpected #get #hit #IT
+
+Anmations list: Lucio "Let's Break It Down", Robin Williams (as a therapist) "Come inside my mind" "Sup" (Boomer)

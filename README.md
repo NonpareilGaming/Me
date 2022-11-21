@@ -1,7 +1,12 @@
 
-nonpareil.me
+#Quandry : "What is #Education?"
+#Hypothesis: #Education = #writing #RefferencialExperience 
 
-# I am Inevitable
+#Quandry : "Why is it #Difficult ?"
+#Hypothesis : " The #Training #Algorithm #neglects an #individual's #NonpareilQuotient"
+
+# Let's Build Proofs!
+#Hypothesis: "This #DataModel can help us understand our deviation (from the norm)"
 #Hpyothesis: "I can #Create #Virality"
 #Hyopthesis: "My #Passions are #Absolute"
 #Hypothesis: "I can #write the #funniest #memoirs #ever"
