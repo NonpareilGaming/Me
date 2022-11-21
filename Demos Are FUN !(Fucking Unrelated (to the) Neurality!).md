@@ -12,3 +12,6 @@
 #Quandry: "Is #RefferencialExperience #Knowledge?"
 
 #Quandry: ""
+
+#Joke: ~"(Gummies) (are like) (my drunk Step Dad). (Ya never know when) (they'll) (hit ya!) " - Some guy on KillTony around episode 280 or so, maybe currnet? #IT
+#Disambaguated : #Delta-9 #Influenced #Entity #Unexpected #get #hit #IT

@@ -43,12 +43,15 @@ People that have achieved nonpareil success:
 	- #Joke fishsticks
 - GaryVee
 - Malcolm Gladwell (Don) @leopheard
-	- (Defines Outliers Nonpareily)
+	- ( #Defines #Outliers #Nonpareily)
+	- Brooooo!! :DDDDD, You should call your next book #Creating a #Nonpareil #Outlier... I'll come up with a better name once my #Punngine is #Done...nah, nevermind I don't like Gin.
+
 - Hit Record
 - Steve Jobs
 - Early Elon Musk
 	- What changed? What Nonpareil Event (Ne) moved Elon down the Nonpareil Quotient (Nq)
 - Tony Hichcliffe
+	- One time you said you look into your audience and grab the words that are coming straight out of their heads. Game on.
 - Kevin Smith
 - Steve Klein
 - Matthew McConaughey
