@@ -1,4 +1,12 @@
+#Nonpareil #Altruism #LLC , a ( #Linked #Lexicon #Community)  
+
+#Efficiency #Experience #Cycle 
+
+#Quandry: "(How do I make) #this #Challenge #Alturuistic?"
+#Hypothesis: "I am matching up to $1200 in donations to #DarkHorseAllies. Additionally, I will gift the same amount to the winner of the challenge."
+
 Mon5:18am. #Ae =  
+
 
 #Definition: #Avatarial #Experience = "(Rexp)+(Ghexp)" = #Ae
 	
@@ -23,3 +31,6 @@ Mon5:18am. #Ae =
 Anmations list: Lucio "Let's Break It Down", Robin Williams (as a therapist) "Come inside my mind" "Sup" (Boomer), "Punch Up!" (That show on HBO?)
 
 #Quandry : "What is #Diagnostic #Awareness"
+
+#Quandry :"Am I #PlayerOne?"
+
