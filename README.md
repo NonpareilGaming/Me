@@ -2,6 +2,7 @@
 nonpareil.me
 
 # I am Inevitable
+#Hpyothesis: "I can #Create #Virality"
 #Hyopthesis: "My #Passions are #Absolute"
 #Hypothesis: "I can #write the #funniest #memoirs #ever"
 #Hypthesis : "I can #update the #CoreCodingPrinciples" (And make them punny! I'm gonna make a Punngine!)
