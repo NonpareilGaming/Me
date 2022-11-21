@@ -1,5 +1,21 @@
 #Quandary: "What do I contribute?"
 #Hypothesis : #Refferencial #Experience
+
+
+#Quandary : "What is #Refferencial ?"
+#Hypothesis : " #Refferencial is a #mod to #attributes like #Experience "
+#Definition : #Refferencial
+#Definition : #PJ = #PlainFuckingJargon || #PlainFuckingEnglish || #gist
+	#Joke : "The biggest #nonpareil #failure of my life was my attempt at #PJ" 
+	#NewTag: #NonpareilFailure
+	#Definition : #NonpareilFailure = #NonpareilEvent #That 
+	#NonpareilQuote 
+	#NonpareilQuote : "The #difference #between #thought and #jargon is #Approximation "
+	#Defintion : #jargon = #Approx 
+
+#Quandary : ""
+	 
+#TODO : Define #mod 
 # Language
 - #Definition : #Art = Content #mod #Flair 
 	- Definition
