@@ -17,6 +17,8 @@
 
 
 
+
+
 #NonpareilQuote: "Everyone has their #pregidous #Quotient. That's why we #mind our Ps and Qs." #Joke 
 
 #Quandary : "What is a #Hypothesis ?"

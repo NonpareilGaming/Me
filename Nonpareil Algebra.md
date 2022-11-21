@@ -6,6 +6,9 @@
 #Quandry : "What is #SpaghettiOnTheWall?"
 #Quandry : "(What is) #Relevancy ?"
 
+#Quandry: "(How does) this (help me ) #learn"
+	#Disambiguate : #Define #Education
+
 #Quandry: ""
 
 #Hypotheis: If #Time is not #relative, it is not #Relevant . #Experience is #relative .
