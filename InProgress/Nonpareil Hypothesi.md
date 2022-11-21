@@ -1,5 +1,32 @@
+
 # Hypothesi
+#NonpareilQuote: "(As an) #entity " #IT 
+
+#Quandary : "If this is my #memoiras "
+
+#Quandary: #PJ:"We need a test environment for MySQL Flyway Migrations but they're causing too many problems and the devs are starting to become an #annoyance , how can I #expedite 
+
+#Quandary: "What is #expedition?" #IT 
+#pregidous #
+
+#Quandary: #security
+
+#Hypothesi : "(Figure out your customer), (and then) (find a solution) (that efficiently intrigues them)"
+	#NonparielQuote: ( #Define #Motive ) #then 
+#Virility #IT
+#Quandary: "What is #Rust?"
+#Joke: "(I talked about) #mapping out the #creation tree"
+
 #NonpareilQuote: AMA: Predictive Log Analysis: Predicting The Future Of Engineering with a Lexicon. 
+
+#Quandary : "(What is) Product Lead Growth"
+
+#Quandary : "What are Yoshi?"
+#Hypothesis : " #Inexperienced #NonpareilNerds"
+#math: Y=!expNn
+	#Therfore : Y+Exp=Nn. Find the #Nonpareil #method to #achieve #NonpareilSucces #NonpareilQuote 
+
+#Quandary:  "(What is) #Acccountability"
 
 #NonpareilQuote: "Additional #Experiences 
 
@@ -43,6 +70,7 @@
 #NonpareilQuote: " #Entity #Analysis #Creates #Data"
 
 #Quandary : "(What is) an #Entity ?" #IT 
+#Hypthesis: #Entity = #Metaphysical #Matter   #IT
 
 #Definition: #IT = #TODO
 

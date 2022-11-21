@@ -1,4 +1,19 @@
-# Overview
+# I am Inevitable
+#Hypthesis: "My #Passions are #Absolute" - Nic E2.1
+
+
+
+#Assertations
+#Hypothesis : I am #Nic ! But seriously, challenge it! #Contribute , Let's find out!
+#Hypothesis: #This will
+
+#Quandary : "What is #Gamification"
+
+#NonpareilQuote:  "(I want to) "
+#nonpareilQuote : " #Nic #perpetually #try to make my efficiency per cycle better"
+#li
+
+#InitialMusing : "If the #lexicon is your #id then your #vinacular is your #Avatar. The "
 ## Motivation
 
 I love watching streamers try and analyze a game. I think they all have different opinions based on their experiences. I first came up with this idea while playin NBA2K23, so I will use teh big players in the analytic streamer space to decsribe my plan.
