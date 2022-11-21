@@ -15,7 +15,7 @@ nonpareil.me
 #Hypothesis: ... #IT 
 
 #Quandary: "What is the #Scientific #Theory?"
-#Hypothesis:  #Scientific #Theory = #St = ... #IT 
+#Hypothesis:  #Scientific #Theory = #St = "a coherent group of propositions formulated to explain a group of facts or phenomena in the natural world and repeatedly confirmed through experiment or observation" #Dictionary-com
 	
 #Definition: #Hypothesis = #Thought #Seeking #Absolution
 
