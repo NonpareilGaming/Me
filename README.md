@@ -3,6 +3,7 @@ nonpareil.me
 
 # I am Inevitable
 #Hyopthesis: "My #Passions are #Absolute"
+#Hypothesis: " #Automate #Everything" (Whoever #taught me this should have put a #qualifier on it :DDDDDDD)
 
 #Quandary : "What is a #Hypothesis ?"
 #Hypothesis: ... #IT 
@@ -10,7 +11,10 @@ nonpareil.me
 #Quandary: "What is the #Scientific #Theory?"
 #Hypothesis:  #Scientific #Theory = #St = ... #IT 
 	
-#Definition: #Hypothesis = A ... #IT 
+#Definition: #Hypothesis = #Thought #Seeking #Absolution
+
+#Quandry: "Is #Seeking the #NonpareilWord ?"
+
 
 #Quandary : "What's the #diff between a #Thought and an #Idea?"
 #Definition: #Thought = "(an idea or opinion) (produced by) (thinking, or occurring) (suddenly in the mind)." #OxfordLanguages  = "the action or process of thinking." #OxfordLanguages  = "woman who has many casual sexual encounters or relationships." #OxfordLanguages #Joke: "No, but seriously :D"
