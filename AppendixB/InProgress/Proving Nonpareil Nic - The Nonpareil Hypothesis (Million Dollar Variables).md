@@ -1,7 +1,23 @@
 #Quandary: "What do I contribute?"
 #Hypothesis : #Refferencial #Experience
+
+
+#Quandary : "What is #Refferencial ?"
+#Hypothesis : " #Refferencial is a #mod to #attributes like #Experience "
+#Definition : #Refferencial
+#Definition : #PJ = #PlainFuckingJargon || #PlainFuckingEnglish || #gist
+	#Joke : "The biggest #nonpareil #failure of my life was my attempt at #PJ" 
+	#NewTag: #NonpareilFailure
+	#Definition : #NonpareilFailure = #NonpareilEvent #That 
+	#NonpareilQuote 
+	#NonpareilQuote : "The #difference #between #thought and #jargon is #Approximation "
+	#Defintion : #jargon = #Approx #id
+
+#Quandary : ""
+	 
+#TODO : Define #mod 
 # Language
-- #Definition : #Art = Content #mod #Flair 
+- #Definition : #Art = Content #id
 	- Definition
 		- Content
 	- Nonpareil Event
@@ -58,7 +74,7 @@
 	- Create law
 - Language Aptitude
 	- La
-- Nic
+- #Nic
 	- Nerd In Charge
 	- Another term for CEO
 	- Anyone can be a NIC in their own community. 

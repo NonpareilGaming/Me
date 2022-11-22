@@ -12,4 +12,8 @@
 10. NonpareilQuotes are meant to be memorable. We will iterate on them to add #Flair
 
 # Ids
-Caps (Communication Always Promotes Succes)
+#NonpareilQuote : #CAPS (Communication Always Promotes Succes)
+
+#Quandry: "What is a #lens"
+
+#Define: #purpose #IT 
