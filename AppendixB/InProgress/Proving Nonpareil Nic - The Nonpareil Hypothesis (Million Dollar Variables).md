@@ -11,13 +11,13 @@
 	#Definition : #NonpareilFailure = #NonpareilEvent #That 
 	#NonpareilQuote 
 	#NonpareilQuote : "The #difference #between #thought and #jargon is #Approximation "
-	#Defintion : #jargon = #Approx 
+	#Defintion : #jargon = #Approx #id
 
 #Quandary : ""
 	 
 #TODO : Define #mod 
 # Language
-- #Definition : #Art = Content #mod #Flair 
+- #Definition : #Art = Content #id
 	- Definition
 		- Content
 	- Nonpareil Event
@@ -74,7 +74,7 @@
 	- Create law
 - Language Aptitude
 	- La
-- Nic
+- #Nic
 	- Nerd In Charge
 	- Another term for CEO
 	- Anyone can be a NIC in their own community. 

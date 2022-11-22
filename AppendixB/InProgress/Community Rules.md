@@ -13,3 +13,7 @@
 
 # Ids
 #NonpareilQuote : #CAPS (Communication Always Promotes Succes)
+
+#Quandry: "What is a #lens"
+
+#Define: #purpose #IT 

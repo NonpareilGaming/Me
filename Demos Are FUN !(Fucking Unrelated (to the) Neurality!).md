@@ -1,5 +1,9 @@
 #Nonpareil #Altruism #LLC , a ( #Linked #Lexicon #Community)  
 
+#Quandry : What is the #Experience ToBe #Effective #Quotient ?
+#Hypothesis:ExperienceNecessary
+
+
 #Efficiency #Experience #Cycle 
 
 #Quandry: "(How do I make) #this #Challenge #Alturuistic?"
