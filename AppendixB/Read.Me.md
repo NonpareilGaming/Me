@@ -1,5 +1,8 @@
 # I am Inevitable
 #Hypthesis: "My #Passions are #Absolute" - Nic E2.1
+#Hyp : "If you find and embrace your #Id, you will be #relevant."
+#Definition : #Brand = #Avatar
+#nonpareil 
 
 
 
