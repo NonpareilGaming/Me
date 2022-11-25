@@ -4,7 +4,7 @@ I once heard someone say " #Einstein said #compounded #interest is the most powe
 
 I thought "Yea, that makes sense in math! I invest in something, that gains interest, and then I gain interest on that new value!"
 
-Look, that's powerful. But that's not the most powerful force in the universe. In order for that to work, the two things you need are money and time. Fuck... I don't have money and I way too impatient to wait on time.
+Look, that's powerful. But that's not the most powerful force in the universe. In order for that to work, the two things you need are money and time. Fuck... I don't have money and I'm way too impatient to wait on time.
 
 So I figured, I'll look to see what else Einstein had to say.
 
