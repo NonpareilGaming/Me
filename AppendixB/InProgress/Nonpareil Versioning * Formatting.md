@@ -8,7 +8,7 @@
 #Define : #OOO is #Order of #Operations
 
 #InitialMusing : #Versioning #Morning or #Evening/Afternoon is more #important than #versioning the #day; #time is #relative. SUM( #Readers ) is #necessary for #verisioning. The more relavent you become, the more acceptable your variables are. 
-#Definition #Relevance = SUM( #Readers )
+#Definition : #Relevance = SUM( #Readers )
 	#OxfordLanguages the quality or state of being closely connected or appropriate.
 #Variablization #Relevance = #Relative = #important 
 #Definition : #Variablization ~= #Defintion 

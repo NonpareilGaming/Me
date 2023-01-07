@@ -36,6 +36,9 @@
 #Quandary : "What's the #diff between a #Thought and an #Idea?"
 #Definition: #Thought = "(an idea or opinion) (produced by) (thinking, or occurring) (suddenly in the mind)." #OxfordLanguages  = "the action or process of thinking." #OxfordLanguages  = "woman who has many casual sexual encounters or relationships." #OxfordLanguages #Joke: "No, but seriously :D"
 #Definition : #Thought= #Idea #Created by #Id 
+
+#Thought+ #Id  + #Focus ~= #Idea 
+
 #Clarification : #Thought #Parents #Idea ( #With #Id )
 
 #Definition : #Idea = "a thought or suggestion as to a possible course of action." #OxfordLanguages = "the aim or purpose" #OxfordLanguages #IT #CircularLogic #CL
@@ -49,3 +52,10 @@
 
 
 #NonpareilQuote"You #Create and #Idea. Then, you #analyze that idea. If no new #data or #experience #deviates your #Opinion, That #Opinion is #Absolute. It is #Imperative to allow for #Deviation."
+
+
+11 + 12 = 23
+
+10 and 1 + 10 and 2 = 20 and 3
+
+11 = 10 and 1.... 12 = 10 and 2...

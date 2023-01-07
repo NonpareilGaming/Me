@@ -1,0 +1,2 @@
+#Definition : #TheStay = The name of the psychiatric hospital I was in for 5 days. 
+#Definition : #Insane #Asylum = The **lunatic asylum** (or **insane asylum**) was an early precursor of the modern [psychiatric hospital](https://en.wikipedia.org/wiki/Psychiatric_hospital "Psychiatric hospital"). (Wikipedia)

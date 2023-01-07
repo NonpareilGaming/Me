@@ -15,10 +15,13 @@ I'm #motived to #succeed
 #Definition : #passion 
 
 
-
+Fear = false evidence appearing real
 
 
 
 
 #Hypthesis : I will #succeed at #ProjectManagment
 
+#Definition : #intrensic  #motivation & #value   ~= #id ~= #opomizing #Efficiency 
+#id = #intrensic 
+#Hypthesis  : #Altruism = #intrensic #motivation & #value

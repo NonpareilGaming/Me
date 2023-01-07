@@ -1,0 +1,4 @@
+Good Afternoon Nerds!
+If you've ever been interested in learning STEM or are a software enthusiast looking for an Open Source project to contribute to, https://github.com/NonpareilGaming/2kAPIs is the answer! I'm building a set of APIs to help streamline league processes! First up is combine 10s. They're always chaotic, let's make them simpler with software!
+I'm an industry leading DevOps Architect that is literally flown out and paid to give speeches in order to educate other industry leaders. If you need my credentials: https://www.linkedin.com/in/nick-benton/ 
+I'll be streaming NOW on https://www.twitch.tv/nonpareilnic come join! I'd love to give advice on STEM/coding as well as get design opinions from the community even if you have no interest in coding! Later I'll cut down what I can in the sessions into YouTube tutorials for educational purposes (whenever I have the time).

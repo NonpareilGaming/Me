@@ -44,41 +44,41 @@ I am an extremely successful person.
 
 And I fucking love it.
 
-But I've failed over and over and over. I don't fail lightly. I fucking gun it. I fucking crash and I fucking burn. I cry. I get depressed. It hurts. But like the great philosopher Chumbawamba told me in Tubthumping, when I get knocked down, I get up again. You're never gonna keep me down.
+But I've failed over and over and over. I don't fail lightly. I fucking gun it. I fucking crash and I fucking burn. I cry; I get depressed; It hurts. But like the great philosopher Chumbawamba told me in Tubthumping, when I get knocked down, I get up again. You're never gonna keep me down.
 
 My first passion was UNC basketball. My first big failure was school. So I applied to UNC and only UNC. I didn't know why I didn't apply to other schools. But I wanted to go there! I didn't get in. Knocked down, time to get up again.
 
-~Bob: "I have a friend at HPU, you can go there, and I know you're not good enough at track to run at UNC, but I bet you could there!"
+~My step-dad: "I have a friend at HPU, you can go there, and I know you're not good enough at track to run at UNC, but I bet you could there!"
 
-My second passion was pole vaulting! My second failure too. Good, not good enough. So I tried doing decathlon (only deviate a little!), nope. not it.
+My second passion was pole vaulting! My second failure too. Good, not good enough. So I tried doing decathlon (only deviate a little!), nope. Not it.
 
-My third passion was saving lives. I wanted to be a doctor. But I wasn't passionate about school. So I decided I was going to fucking gun it. I joined the Air Force and I was going to be a Pararescueman. I was going to be the biggest badass in the world while saving lives. And FUCK was I passionate about it. I've never been so driven. I went to that school. The one they call superman school. And I fucking tried my fucking heart out. I wanted it so bad. But, I wasn't mentally strong enough. I failed. I cried. It was fucking tough.
+My third passion was saving lives. I wanted to be a doctor, but I wasn't passionate about school. So I decided I was going to fucking gun it. I joined the Air Force and I was going to be a Pararescueman. I was going to be the biggest badass in the world while saving lives. And FUCK was I passionate about it. I've never been so driven. I went to that school, the one they call superman school, and I fucking tried my fucking heart out. I wanted it so bad. But, I wasn't mentally strong enough. I failed. I cried. It was fucking tough.
 
-I had told everyone what I was going to do. I bragged about it, I made people proud that I was going to do it. Not only did I need it, people around me started to be proud that I was going to do it. They started to brag about their friend that was going to be a PJ and save lives. I not only failed myself, but I failed them too.
+I had told everyone what I was going to do. I bragged about it, I made people proud that I was going to do it. Not only did I need it for me, I needed it for the people supporting me. They started to brag about their friend that was going to be a PJ and save lives. I not only failed myself, but I failed them too. 
 
 This was my biggest failure. I even failed the people that I never got to save. This one always hurts.
 
 Fuck it. I'm a fucking Tubthumpin!
 
-One day, while half drowning and "popping up" from our long distance underwater swims at PJ Indoc, I come up with a plan.
+One day, while half drowning and "popping up" from our long distance underwater swims at PJ Indoc, I came up with a plan.
 
-If I'm not physically capable of doing my passion, I'm going to see what I'm intellectually capable of!
+If I'm not physically capable of pursuing this passion, I'm going to see what I'm intellectually capable of!
 
-So I though: "Self, what's the most intelligent thing I can do in the military?"
+So I thought to myself: "Self, what's the most intelligent thing I can do in the military?"
 
 For some reason: "Military Intelligence!"
 
-But thank god was that my choice. Because what I learned there wasn't intelligence, but confidence. Colonel @BadAtHockey taught me about building your brand. About being confident. About not being afraid of sharing the information you have.
+Thank god was that my choice. Because what I learned there wasn't intelligence, but confidence. My Colonel taught me about building your brand; about being confident; bout not being afraid of sharing the information you know.
 
-And the rest of the team taught me how to disambaguate information and retell it as a story that can be remembered.
+And the rest of the team taught me how to disambaguate that information and retell it as a story that can be remembered.
 
 I learned how to efficiently educate.
 
-My next passion was logic. So I became an egineer. I'm successful at it.
+My next passion was logic. So I became an egineer. I'm successful at it by any definition.
 
-So, if compounded interest (passion) leads to compounded experience (efficient learning) then how did I get to success?
+So... If compounded interest (passion) leads to compounded experience (efficient learning) then how did I get to success?
 
-Follow your passions. You'll learn about them the fastest. Follow them until you can't. Fucking fail. Fail as fucking hard as you can. Until you can logically decide on a better use for your time.
+Follow your passions. You'll learn about them the fastest. Follow them until you can't. Fucking fail. Fail as fucking hard as you can (safely). Until you can logically decide on a better use for your time.
 
 That's how you get experience in life. You create your own nonpareil events.
 
@@ -88,17 +88,17 @@ I want to be great. I want to be remembered.
 
 I have created the nonpareil events necessary for me to become successful.
 
-It's not about income. It's not about title. I don't even use my title on my LinkedIn. It just says "Nonpareil DevOps Dude" and hell, I may drop DevOps now.
+It's not about income. It's not about titles. I don't even use my title on my LinkedIn. It just says "Nonpareil DevOps Dude".
 
 I want to educate people; on how to be successful.
 
-That's it. That's what I want to do. The passions I've had are helping people (saving lives), breaking down information intellectually and presenting it in a way that someone can learn (educating).
+That's it. That's what I want to do. The passions I've had are helping people (saving lives), and breaking down information intellectually and presenting it in a way that someone can learn (educating).
 
 All my life I've been honing in on what I'm most passionate about. My nonpareil passion. I hope I've found. If not, I'll fucking find out.
 
 Do what you're passionate about and you'll succeed.
 
-That's it. That's all. The rest is just shit. I went into DevOps to make the money. Because it's a way to breakdown information and present it in a way that is readable (ETL). That's the part I'm good at. 
+That's it. That's all. The rest is just shit. I went into DevOps to make the money and because it's a way to breakdown information and present it in a way that is readable (ETL). That's the part I'm good at. 
 
 So this is me, publicly, confidently, assuredly, and logically. (engineer)
 
@@ -108,14 +108,13 @@ I REALLY hope this is Altruistic.
 
 I want to educate.
 
-I'm good at failure.. I should probably start educating people on how to fail epically.
+I'm good at failure... I should probably start educating people on how to fail epically.
 
 "I yam what I yam" -Popeye
 
-A Nonpareil Failure
+A Nonpareil Success
 
 Nonpareil.me
 https://github.com/NonpareilGaming/Me
 https://www.twitch.tv/nonpareilnic
 Lines of Code written: 0
-

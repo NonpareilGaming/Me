@@ -12,7 +12,7 @@ I was at a youth retreat some time around 4th or 5th grade and we were going aro
 
 I remember when I first moved and had to make new friends.
 
-When my mom tried to find her own post-marriage success, she decided to be a realtor. I even remember helping her with her class work. So when I went to the 6th grade and we were figuring out where I would go, we decided on O'Neal. Pinehurst was a much better realestate market and O'Neal was a prestigious school, and I had earned an academic scholarship to help me attend.
+When my mom tried to find her own post-marriage success, she decided to become a realtor. I even remember helping her with her class work. So when I went to the 6th grade and we were figuring out where I would go, we decided on O'Neal. Pinehurst was a much better realestate market and O'Neal was a prestigiousschool, and I had earned an academic scholarship to help me attend the private institute.
 
 This was where I started to develop trust issues.
 
@@ -24,28 +24,28 @@ When I went to O'Neal, I knew one person. In middle school, you decide to pick o
 
 I became SpamBurger
 
-When your depressed, you don't want to do anything. You don't want to move, you don't want to go anywhere. I turned to video games. I found a way to be who I am and find people that would accept me because, in the video game world, skill trumps all. If you're good enough, intelligent enough, people will like you because you win. So I created my first video game avatar "SpamBurger". I think it was randomly assigned but I thought it was silly enough to fit my personality.
+When you're depressed, you don't want to do anything. You don't want to move, you don't want to go anywhere. I turned to video games. I found a way to be who I am and find people that would accept me; because, in the video game world, skill trumps all. If you're good enough, intelligent enough, and kind enough people will like you because you win. So I created my first video game avatar "SpamBurger". I think it was randomly assigned but I thought it was silly enough to fit my personality.
 
 I became a winner.
 
-As SpamBurger, I was top 10 in the world at one point on SOCOM: Navy Seals. No one could deny that I had value. This didn't help at school. So I tried to be "cool" and I changed it from SpamBurger to SpamDawg. And I created Wuupas on Everquest because I wanted to whoop ass!. I wanted to be "cooler". I wanted the "cool" kids to stop picking on me. I just wanted to be "normal" but I'm not. Not by a long shot. I'm special.
+As SpamBurger, I was top 10 in the world at one point on SOCOM: Navy Seals. No one could deny that I had value in video games. This didn't help at school. So I tried to be "cool" and I changed it from SpamBurger to SpamDawg. Then I created Wuupas on Everquest because I wanted to whoop ass! I wanted to be "cooler". I wanted the "cool" kids to stop picking on me. I just wanted to be "normal" but I'm not. Not by a long shot. I'm special.
 
 SpamDawg wasn't me. Wuupas wasn't me. I had to find myself. I changed my avatars again.
 
 Enter Reemas (and his brother)
 
-My step brother is, to this day, one of the most intelligent and kind people I've ever met in my life. We're not as close anymore, but he saved me. He gave me one of his characters "Reemas". It was a play on his character Meeras Tafari (based on his father living in the Bahamas). But, whether he knew it or not, I am Reemas. My avatars changed to varying names relating to Remus and Romulus. They were raised by wolves and didn't understand humans at all. Yep, sounds like me so far. Despite that, they built Rome. Possibly the greatest feat in the history of mankind. I wanted to be like them. I was misunderstood, but seeking greatness.
+My step brother is, to this day, one of the most intelligent and kind people I've ever met. We're not as close anymore, but he saved me. He gave me one of his characters "Reemas". It was a play on his character Meeras Tafari (based on his father living in the Caribbean). Whether he knew it or not, I was Reemas. My avatars changed to varying names relating to Remus and Romulus. They were raised by wolves and didn't understand humans at all. Yep, sounds like me so far. Despite that, they built Rome. Possibly the greatest feat in the history of mankind. I wanted to be like them. I was misunderstood, but seeking greatness.
 
 I am unique and nonpareil!
 
 Enter NonpareilNic
 
-I eventually came to grips with who I was in high school. I began to prove the bullies wrong by beating them in Track. In fact, they were polevaulting with me and trying to get me to fight them daily. But I was outperforming them and beating them in pole vaulting every day. Prove them wrong. You're better. Fuck them. I decided to change my video game avatar again. I no longer needed to pretend to be Remus and Romulus, I needed to start my own story. So I googled synonyms for "great". And this mattered to me, so I spent time looking. I found the word nonpareil. It means "no parallel, unrivalled". I became NonpareilNick. I was me. I am unrivalled.
+I eventually came to grips with who I was in high school. I began to prove the bullies wrong by beating them in sports. In fact, they were polevaulting with me and trying to get me to fight them daily. But I was outperforming them and beating them in pole vaulting every day. Prove them wrong. You're better. Fuck 'em. I decided to change my video game avatar again. I no longer needed to pretend to be Remus and Romulus, I needed to start my own story. So I googled synonyms for "great". And this mattered to me, so I spent time looking. I found the word nonpareil. It means "no parallel, unrivalled". I became NonpareilNic. I was me. I am unrivalled.
 
 I am successful.
 
-No one would look at my life and deny that. But it didn't come easy. Some of us didn't make it. I've had friends along the way lose the battle. I'm glad I made it. I've always wanted to save lives. I thought I had to be a doctor or a PJ to do it. But now, all I want to be is myself. And I want to find others like me and show them that that's enough. That you can prove everyone else wrong and just be yourself and be successful.
+No one would look at my life and deny that. But it didn't come easy. Some of us didn't make it. I've had friends along the way lose the battle. I've always wanted to save lives. I thought I had to be a doctor or a PJ to do it. But now, all I want to be is myself. And I want to find others like me and show them that that's enough. That you can prove everyone else wrong and just be yourself and be successful.
 
-I want to educate kids like me on how to become successful.
+I want to educate people like me.
 
 I am nonpareil.

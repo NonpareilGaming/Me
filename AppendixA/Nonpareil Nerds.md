@@ -16,7 +16,7 @@ Title: UNCW Student Challenge his Professors for their titles.
 People that have achieved nonpareil success:
 - Nonpareil.me/<'username'>
 - #CurryGuinn
-	- #Theory: (Singularity) and (Philosophy) of ( #Artificia)( #Intelligence)
+	- #Theory: (Singularity) and (Philosophy) of ( #Artificial)( #Intelligence)
 		- #Singularity & #Philosophy of #Approximated #Id
 		- #Definition: #Singularity = #TODO @ #DrGuinn #Joke "I started to figured out a better word, then I realized you've already gone down this path. HALP!"
 	- #Theory: Spoken Dialog Systems
@@ -59,6 +59,7 @@ People that have achieved nonpareil success:
 - Matt Stone (Not Normal)
 - Matt Rickard (matt-rickard.com)
 - Jason Howk #Altruism 
+- OpenSet
 - Albert Einstein
 	- ~"Compound Interest is the most powerful force in the universe"
 	- #Hypothesis : We can #Compound #Experience

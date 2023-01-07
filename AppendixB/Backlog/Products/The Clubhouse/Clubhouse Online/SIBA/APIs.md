@@ -1,0 +1,16 @@
+- 10s lobbies
+	- Sign up for 10s
+		- Position
+			- Python Dict
+				- Time stamp
+				- position
+				- discord/xbox name
+				- Have a team?
+				- Coach?
+	- Auto invite to Discord channel and join via Xbox?
+		- Once 10 players, 5 from each position are signed up create 2 temporary channels
+			- Channel Name: |ACTIVITY|-|UID|-|HOME/AWAY|-|Timestamp|
+			- Team Owner
+						
+		- XBL.io xbox party invites
+	- 

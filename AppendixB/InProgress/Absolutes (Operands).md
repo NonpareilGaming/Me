@@ -1,4 +1,6 @@
-#Definition #Absolute : The #Definition of a #Variable #Pending  #Contribution
+#Definition : #Conjecture = #proposition #without #testability 
+
+#Definition uighvp[;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;bv90 #Absolute : The #Definition of a #Variable #Pending  #Contribution
 #Variablization #Contribution ~= #Contribute
 #Definition : #Approximately ~ = ~
 #Definition : #And = (multiple ,s followed by & within 1 word ) || & || ,& || && 
@@ -17,6 +19,7 @@
 - 
 - Operation
 - #misinturpretation 
+- #Conjectior
 - #Hypothesis 
 - #Theory
 - #Law
